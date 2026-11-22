@@ -1,0 +1,106 @@
+== CGH_2027-06-13_2027-06-27 | min R$1249 | Os preços estão baixos no momento (R$ 384 mais barato que o normal para a pesquisa).
+     R$1249  19:00-00:35+1 Gol 5h 35 min 1 parada 1h 20 min GIG
+     R$1393  06:05-09:30 LATAM 3h 25 min Sem escalas 
+     R$1393  08:00-11:25 LATAM 3h 25 min Sem escalas 
+== CGH_2027-06-16_2027-06-30 | min R$1114 | Os preços estão baixos no momento (R$ 538 mais barato que o normal para a pesquisa).
+     R$1114  06:05-09:30 LATAM 3h 25 min Sem escalas 
+     R$1114  17:40-21:05 Gol 3h 25 min Sem escalas 
+     R$1377  07:05-16:15 Gol 9h 10 min 2 paradas VIX, SSA
+== CGH_2027-06-16_2027-06-30_6pax | min R$- | 
+== CGH_2027-06-18_2027-06-30 | min R$1249 | Os preços estão baixos no momento (R$ 403 mais barato que o normal para a pesquisa).
+     R$1249  06:00-16:00 Gol 10h 1 parada 5h 45 min GIG
+     R$1249  07:15-16:00 Gol 8h 45 min 2 paradas NVT, GIG
+     R$1249  13:50-23:15 Gol 9h 25 min 1 parada 5h 5 min BSB
+== CGH_2027-06-19_2027-07-03 | min R$1114 | Os preços estão baixos no momento (R$ 519 mais barato que o normal para a pesquisa).
+     R$1114  12:15-15:40 LATAM 3h 25 min Sem escalas 
+     R$1249  08:55-16:00 Gol 7h 5 min 2 paradas NVT, GIG
+     R$1249  16:00-00:35+1 Gol 8h 35 min 2 paradas FLN, GIG
+== CGH_2027-06-20_2027-07-04 | min R$1249 | Os preços estão baixos no momento (R$ 384 mais barato que o normal para a pesquisa).
+     R$1249  19:00-00:35+1 Gol 5h 35 min 1 parada 1h 20 min GIG
+     R$1330  17:40-21:05 Gol 3h 25 min Sem escalas 
+     R$1389  10:30-16:00 Gol 5h 30 min 1 parada 1h 20 min GIG
+== CGH_2027-07-01_2027-07-15 | min R$1454 | Os preços estão normais
+     R$1454  15:00-00:35+1 Gol 9h 35 min 2 paradas FLN, GIG
+     R$1454  22:10-16:00+1 Gol 17h 50 min 2 paradas NVT, GIG
+     R$1525  07:30-16:00 Gol 8h 30 min 2 paradas FLN, GIG
+== CGH_2027-07-03_2027-07-17 | min R$1455 | Os preços estão normais
+     R$1455  07:25-16:00 Gol 8h 35 min 2 paradas FLN, GIG
+     R$1582  16:00-00:35+1 Gol 8h 35 min 2 paradas FLN, GIG
+     R$1653  06:00-11:00 Gol 5h 1 parada 40 min BSB
+== CGH_2027-07-10_2027-07-24 | min R$1582 | Os preços estão normais
+     R$1582  17:50-23:15 Gol 5h 25 min 1 parada 1h 5 min BSB
+     R$1653  06:00-11:00 Gol 5h 1 parada 40 min BSB
+     R$1914  09:00-12:25 Gol 3h 25 min Sem escalas 
+== CGH_2027-07-17_2027-07-31 | min R$1582 | Os preços estão normais
+     R$1582  06:00-11:00 Gol 5h 1 parada 40 min BSB
+     R$1582  08:00-16:15 Gol 8h 15 min 2 paradas CNF, SSA
+     R$1582  17:50-23:15 Gol 5h 25 min 1 parada 1h 5 min BSB
+== CGR_2027-06-13_2027-06-27 | min R$1473 | Os preços estão baixos no momento (R$ 709 mais barato que o normal para a pesquisa).
+     R$1473  11:30-21:05 Gol 8h 35 min 1 parada 3h 30 min CGH
+     R$1473  18:35-11:05+1 Gol 15h 30 min 3 paradas GRU, FLN, BSB
+     R$1473  18:35-16:00+1 Gol 20h 25 min 2 paradas GRU, GIG
+== CGR_2027-06-16_2027-06-30 | min R$1603 | Os preços estão baixos no momento (R$ 690 mais barato que o normal para a pesquisa).
+     R$1603  11:30-21:05 Gol 8h 35 min 1 parada 3h 30 min CGH
+     R$1603  18:45-11:05+1 Gol 15h 20 min 3 paradas GRU, FLN, BSB
+     R$1603  18:45-11:05+1 Gol 15h 20 min 3 paradas GRU, POA, BSB
+== CGR_2027-06-18_2027-06-30 | min R$1603 | Os preços estão baixos no momento (R$ 690 mais barato que o normal para a pesquisa).
+     R$1603  04:15-16:00 Gol 10h 45 min 2 paradas GRU, GIG
+     R$1603  10:10-23:15 Gol 12h 5 min 2 paradas GRU, BSB
+     R$1603  18:45-10:40+1 Gol 14h 55 min 3 paradas GRU, FLN, GIG
+== CGR_2027-06-19_2027-07-03 | min R$1603 | Os preços estão baixos no momento (R$ 579 mais barato que o normal para a pesquisa).
+     R$1603  04:15-16:00 Gol 10h 45 min 2 paradas GRU, GIG
+     R$1603  04:35-16:00 Gol 10h 25 min 3 paradas CGH, NVT, GIG
+     R$1603  10:15-17:00 Gol 5h 45 min 1 parada 45 min GRU
+== CGR_2027-06-20_2027-07-04 | min R$1744 | Os preços estão normais
+     R$1744  10:15-17:00 Gol 5h 45 min 1 parada 45 min GRU
+     R$1808  05:05-01:55+1 LATAM 19h 50 min 1 parada 15h 45 min BSB
+     R$1823  18:35-16:20+1 LATAM 20h 45 min 1 parada 15h 25 min GRU
+== CGR_2027-07-01_2027-07-15 | min R$1941 | Os preços estão normais
+     R$1941  05:05-12:45 LATAM 6h 40 min 1 parada 2h 35 min BSB
+     R$2052  18:35-16:20+1 LATAM 20h 45 min 1 parada 15h 35 min GRU
+     R$2223  11:30-23:15 Gol 10h 45 min 2 paradas CGH, BSB
+== CGR_2027-07-03_2027-07-17 | min R$2082 | Os preços estão normais
+     R$2082  04:35-16:15 Gol 10h 40 min 3 paradas CGH, CNF, SSA
+     R$2082  11:30-23:15 Gol 10h 45 min 2 paradas CGH, BSB
+     R$2082  18:35-10:40+1 Gol 15h 5 min 3 paradas GRU, FLN, GIG
+== CGR_2027-07-10_2027-07-24 | min R$2082 | Os preços estão normais
+     R$2082  11:30-23:15 Gol 10h 45 min 2 paradas CGH, BSB
+     R$2082  18:35-11:00+1 Gol 15h 25 min 3 paradas GRU, FLN, BSB
+     R$2082  18:35-11:00+1 Gol 15h 25 min 3 paradas GRU, POA, BSB
+== CGR_2027-07-17_2027-07-31 | min R$2082 | Os preços estão normais
+     R$2082  04:35-16:15 Gol 10h 40 min 3 paradas CGH, CNF, SSA
+     R$2082  11:30-23:15 Gol 10h 45 min 2 paradas CGH, BSB
+     R$2288  05:05-12:45 LATAM 6h 40 min 1 parada 2h 35 min BSB
+== LDB_2027-06-13_2027-06-27 | min R$1612 | Os preços estão baixos no momento (R$ 638 mais barato que o normal para a pesquisa).
+     R$1612  03:40-12:15 LATAM 8h 35 min 1 parada 3h 40 min GRU
+     R$1612  07:55-15:45 LATAM 7h 50 min 1 parada 3h 10 min CGH
+     R$1612  11:05-19:05 LATAM 8h 1 parada 3h 25 min GRU
+== LDB_2027-06-16_2027-06-30 | min R$2086 | Os preços estão normais
+     R$2086  03:40-10:05 LATAM 6h 25 min 1 parada 1h 40 min GRU
+     R$2086  09:20-16:20 LATAM 7h 1 parada 2h 25 min GRU
+     R$2086  11:05-19:05 LATAM 8h 1 parada 3h 25 min GRU
+== LDB_2027-06-18_2027-06-30 | min R$2086 | Os preços estão normais
+     R$2086  03:40-10:05 LATAM 6h 25 min 1 parada 1h 40 min GRU
+     R$2086  09:20-16:20 LATAM 7h 1 parada 2h 25 min GRU
+     R$2086  11:05-19:05 LATAM 8h 1 parada 3h 25 min GRU
+== LDB_2027-06-19_2027-07-03 | min R$1674 | Os preços estão baixos no momento (R$ 576 mais barato que o normal para a pesquisa).
+     R$1674  07:55-15:40 LATAM 7h 45 min 1 parada 3h 5 min CGH
+     R$2086  03:40-10:05 LATAM 6h 25 min 1 parada 1h 40 min GRU
+     R$2086  09:20-16:20 LATAM 7h 1 parada 2h 25 min GRU
+== LDB_2027-06-20_2027-07-04 | min R$1927 | Os preços estão baixos no momento (R$ 323 mais barato que o normal para a pesquisa).
+     R$1927  14:45-00:35+1 Gol 9h 50 min 2 paradas CGH, GIG
+     R$2078  14:45-21:05 Gol 6h 20 min 1 parada 1h 45 min CGH
+     R$2086  03:40-10:05 LATAM 6h 25 min 1 parada 1h 40 min GRU
+== LDB_2027-07-01_2027-07-15 | min R$- | 
+== LDB_2027-07-03_2027-07-17 | min R$2222 | Os preços estão normais
+     R$2222  07:55-15:40 LATAM 7h 45 min 1 parada 3h 5 min CGH
+     R$2257  13:35-01:50+1 LATAM 12h 15 min 1 parada Mudança de aeroporto
+     R$2384  03:05-10:05 LATAM 7h 1 parada 2h 15 min GRU
+== LDB_2027-07-10_2027-07-24 | min R$2384 | Os preços estão normais
+     R$2384  07:55-15:40 LATAM 7h 45 min 1 parada 3h 5 min CGH
+     R$2460  09:20-20:50 LATAM 11h 30 min 1 parada 6h 50 min GRU
+     R$2662  09:20-18:30 LATAM 9h 10 min 2 paradas GRU, REC
+== LDB_2027-07-17_2027-07-31 | min R$2384 | Os preços estão normais
+     R$2384  03:05-10:05 LATAM 7h 1 parada 2h 15 min GRU
+     R$2384  07:55-15:40 LATAM 7h 45 min 1 parada 3h 5 min CGH
+     R$2384  09:20-16:20 LATAM 7h 1 parada 2h 25 min GRU

@@ -1,5 +1,7 @@
 # Pendências e próximos passos
 
+## ⭐ Ver a seção 7 do [`PLANO.md`](PLANO.md) para a lista atualizada
+
 ## Urgente (até 30/11/2026, por causa da Black Friday)
 - [ ] Levantar saldos: C6 Átomos, Livelo (BB + Bradesco), Esfera (Santander), BTG → `voos-e-pontos.md`
 - [ ] Cotar van/transfer para 8 pessoas: FOR ↔ Flecheiras/Guajiru e FOR ↔ Cumbuco

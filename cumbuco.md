@@ -1,5 +1,7 @@
 # Cumbuco: opções detalhadas
 
+> ⚠️ **Atualizado:** os preços **reais** de 22/11/2026 estão no [`PLANO.md`](PLANO.md), e eles mudaram a conclusão. O Vila Galé AI sai por **~R$ 67 mil** para 3 quartos, não pelos ~R$ 42 mil estimados aqui, e as casas no Airbnb a pé do centrinho saem por **R$ 4,6–7,7 mil** a estadia toda. Este arquivo fica como guia descritivo do lugar.
+
 > Preços de referência coletados em 22/11/2026, quase todos de **datas de 2026** (guias e sites de reserva). Para junho de 2027 é preciso cotar de novo, e julho tende a sair mais caro. Use os números para **comparar as opções entre si**, não como orçamento final.
 
 ## Mapa mental de Cumbuco
