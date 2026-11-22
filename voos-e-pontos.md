@@ -53,4 +53,36 @@ Regras práticas:
 4. Ver as **datas de validade** dos pontos de cada banco. Usar primeiro os que vencem antes.
 5. Fluxo: (a) achar o voo com pontos e anotar quantos pontos custa → (b) esperar ou aproveitar o bônus → (c) transferir o necessário e emitir no mesmo dia, se possível.
 
-**Próximo passo:** informar o saldo de cada programa (e, se possível, dos cartões dos pais e da tia, para emitir em nome deles).
+## Saldos (informados em 22/11/2026)
+
+| Programa | Saldo | Com bônus típico de transferência para a Smiles |
+|---|---|---|
+| Smiles (GOL) | 70.000 | 70.000 (já está lá) |
+| Esfera (Santander) | 55.000 | ~88–99 mil (com 60–80%) |
+| Livelo + C6 Átomos | ~100.000 | ~170–200 mil (com 70–100%) |
+| **Total** | **~225.000** | **~330–370 mil milhas Smiles** |
+
+## Quantas passagens isso paga?
+
+Referências de preço da Smiles para SP ↔ Fortaleza (promoções):
+- Set/2026: **17 mil milhas por trecho** mais ~R$ 50–60 de taxa (34 mil ida e volta, ~R$ 120 de taxas).
+- Fev/2025: 13,8 mil milhas por trecho.
+- Fora de promoção, em data boa, costuma ficar bem acima disso, por volta de 25–40 mil por trecho (**estimativa**: depende da data e da antecedência).
+
+| Preço por pessoa (ida e volta) | Pessoas cobertas com ~350 mil milhas |
+|---|---|
+| 34 mil (preço de promoção) | **~10**, ou seja, todo mundo e ainda sobra |
+| 50 mil | ~7 |
+| 70 mil | ~5 |
+
+👉 **Dá para cobrir boa parte do grupo, ou o grupo todo, com pontos**, se pegarmos promoção de emissão e bônus de transferência.
+
+### Plano de ação
+1. **Agora:** pesquisar no app da Smiles CGH → FOR com ida ~16/06 e volta ~30/06/2027 para 2 e para 6 pessoas, e anotar quantas milhas custa. Fazer o mesmo **LDB → FOR**: a GOL voa de Londrina com conexão em SP, então dá para emitir direto de Londrina e dispensar o ônibus.
+2. **Não transferir Esfera, Livelo e Átomos às cegas.** Esperar bônus de 70% ou mais para a Smiles (comum na Black Friday, de 27 a 30/11, e em campanhas mensais).
+3. Emitir primeiro **Pedro + Guta** com os 70 mil que já estão na Smiles, se houver promoção. O resto vem depois, conforme as transferências com bônus.
+4. Ficar de olho em **promoções de emissão** da Smiles para o Nordeste (saem quase todo mês). O ideal é juntar bônus de transferência com emissão barata.
+5. Lembrar que **cada passagem tem taxa em dinheiro** (~R$ 50–130 por trecho).
+6. A Smiles permite emitir para qualquer pessoa (pais, tia, primas) sem custo extra, mas tem limite de beneficiários. Confirmar no app.
+
+**Próximo passo:** pesquisar no app da Smiles quantas milhas custam as datas desejadas e anotar aqui.
