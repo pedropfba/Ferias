@@ -10,6 +10,7 @@ Planejamento da viagem de férias da família para o litoral do Ceará (base: Fo
 |---|---|
 | [`viajantes.md`](viajantes.md) | Quem vai, de onde sai, divisão de quartos |
 | [`datas.md`](datas.md) | Janela de datas (fim de junho × julho) e calendário da Guta |
+| [`comparativo-destinos.md`](comparativo-destinos.md) | Flecheiras × Cumbuco, van/transfer, all inclusive no Nordeste e clima |
 | [`hospedagem.md`](hospedagem.md) | Hotéis, pousadas e resorts comparados |
 | [`voos-e-pontos.md`](voos-e-pontos.md) | Rotas aéreas, logística Londrina/Campo Grande e estratégia de pontos (Black Friday) |
 | [`pendencias.md`](pendencias.md) | Próximos passos e decisões em aberto |

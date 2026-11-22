@@ -1,7 +1,9 @@
 # Pendências e próximos passos
 
 ## Urgente (até 30/11/2026, por causa da Black Friday)
-- [ ] Levantar saldos de pontos e cartões do Pedro (e de quem mais puder ajudar) → `voos-e-pontos.md`
+- [ ] Levantar saldos: C6 Átomos, Livelo (BB + Bradesco), Esfera (Santander), BTG → `voos-e-pontos.md`
+- [ ] Cotar van/transfer para 8 pessoas: FOR ↔ Flecheiras/Guajiru e FOR ↔ Cumbuco
+- [ ] Confirmar a distância do Vila Galé Cumbuco até o centrinho (dá para ir a pé?)
 - [ ] Checar se há assentos com pontos em CGH–FOR na 2ª quinzena de junho de 2027
 - [ ] Acompanhar bônus de transferência na Black Friday (27/11) e no Cyber Monday (30/11): Smiles, Azul, LATAM Pass
 - [ ] Acompanhar a promoção do Coral Beach Resort (Atlantica), prevista até o fim do mês

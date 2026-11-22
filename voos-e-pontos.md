@@ -34,8 +34,23 @@ Regras práticas:
 3. Para CGH–FOR, Smiles (GOL) e LATAM Pass têm voo direto. A Azul atende melhor Londrina e Campo Grande, via Campinas.
 4. Acompanhar resumos diários de promoções em sites como Passageiro de Primeira e Pontos pra Voar.
 
-**Para preencher:** quais cartões e programas você tem e o saldo de cada um (Livelo, Esfera, Nubank, Itaú, outros). Com isso dá para calcular quantos trechos saem com pontos.
+## Cartões do Pedro
 
-| Programa | Saldo | Transfere para | Observação |
-|---|---|---|---|
-| | | | |
+| Banco | Programa | Transfere para | Bônus vistos em 2026 | Saldo |
+|---|---|---|---|---|
+| **C6** (o maior saldo) | C6 Átomos | Smiles, LATAM Pass, Azul Fidelidade, Livelo, TAP Miles&Go, Passaporte Decolar | Smiles até 80% (jul), Azul até 120% (ago), LATAM 20–25% (ago) | ? |
+| Banco do Brasil | Livelo | Smiles, LATAM Pass, Azul, TAP, outros | Smiles até 70% (nov), Azul até 120% (nov, exceto Esfera) | ? |
+| Bradesco | Livelo | (mesma Livelo do BB, que soma) | idem | ? |
+| Santander | Esfera | Smiles, LATAM Pass, Azul, outros | Smiles até 70% (nov) | ? |
+| BTG | Pontos BTG | Smiles (mín. 10 mil), LATAM Pass, Azul, Livelo, TAP. **Não transfere mais para Esfera** | Azul até 110% (mai), LATAM 25% (mar) | ? |
+
+**Estratégia:**
+1. O **C6 Átomos é a peça principal**. Transfere direto para as três companhias aéreas e costuma ter campanhas próprias fortes (Smiles 80% e Azul 120% em 2026).
+2. **Não passar C6 ou BTG para Livelo** e depois para a companhia. Transferir direto para a companhia, com bônus.
+3. Escolher o programa pela rota:
+   - **CGH → FOR direto:** Smiles (GOL) ou LATAM Pass.
+   - **Londrina e Campo Grande:** a Azul costuma ter mais opções (conexão em Campinas).
+4. Ver as **datas de validade** dos pontos de cada banco. Usar primeiro os que vencem antes.
+5. Fluxo: (a) achar o voo com pontos e anotar quantos pontos custa → (b) esperar ou aproveitar o bônus → (c) transferir o necessário e emitir no mesmo dia, se possível.
+
+**Próximo passo:** informar o saldo de cada programa (e, se possível, dos cartões dos pais e da tia, para emitir em nome deles).

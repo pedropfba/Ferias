@@ -11,7 +11,8 @@
 Observações:
 - Em 2027, Corpus Christi cai em 27/05, então **não há feriado nacional** encarecendo a segunda quinzena de junho.
 - São João (24/06) é festa grande no Nordeste, mas em Fortaleza e no litoral oeste costuma pesar menos no preço do que em Campina Grande e Caruaru.
-- A estação de chuvas no Ceará vai, em geral, de fevereiro a maio. No fim de junho o tempo já costuma estar firme, e venta bastante, o que é bom para quem faz kite em Guajiru e Flecheiras.
+- A estação de chuvas no Ceará vai de fevereiro a junho, com pico em março e abril. No fim de junho as chuvas já estão diminuindo, e **julho é o início da melhor época** (seco e com vento). Ou seja, o clima favorece um pouco julho, e o preço favorece junho.
+- No litoral leste (PE, AL, BA), junho e julho são o **auge das chuvas**. Ver [`comparativo-destinos.md`](comparativo-destinos.md).
 
 ## Alternativa: julho de 2027
 
